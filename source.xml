@@ -1,5 +1,8 @@
 <phones>
 <phone>
-<name>samsung</name>
+<name price="4500">samsung</name>
+</phone>
+<phone>
+<name>lenovo</name>
 </phone>
 </phones>
